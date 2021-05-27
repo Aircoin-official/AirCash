@@ -1,2 +1,2 @@
 # AirCash
-Cash system for $AIR.
+Cash system for AIR.
