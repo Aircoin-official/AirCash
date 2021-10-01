@@ -40,3 +40,6 @@ Connect Your Wallet to AirCash.
 
 Buy and sell crypto with fiat money in your wallet.
 
+#License
+AirCash is released under the terms of the MIT license. 
+See COPYING for more information or see https://opensource.org/licenses/MIT.
