@@ -16,7 +16,7 @@ You don’t need any exchange anymore.
 
 ## No Identity Verification
 
-No KYC, accounts, and personal information anymore.
+No KYC, No accounts, and No personal information anymore.
 
 You can buy and sell anonymously.
 
