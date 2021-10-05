@@ -1,12 +1,12 @@
 ![Screenshot 2021-10-01 at 22 12 27](https://user-images.githubusercontent.com/84432217/135695913-ec6d247c-fa6b-44ed-be0f-af45adaf9986.jpg)
 
-# 1. What’s AirCash?
+# What’s AirCash?
 
 AirCash is the first and largest decentralized OTC platform in the galaxy.
 
 Buy and sell crypto with fiat money in a decentralized way.
 
-# 2. Why AirCash?
+# Why AirCash?
 
 ## Easy to Use
 
@@ -32,7 +32,7 @@ All trading takes place on the blockchain.
 
 We have built a DAO for decentralized governance. 
 
-# 3. How to use AirCash？
+# How to use AirCash？
 
 Create a Wallet.
 
