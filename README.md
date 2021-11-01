@@ -40,7 +40,7 @@ Connect Your Wallet to AirCash.
 
 Buy and sell crypto with fiat money in your wallet.
 
-# More info here:
+# More info here
 
 https://docs.aircash.finance/
 
