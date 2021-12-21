@@ -42,7 +42,7 @@ Buy and sell crypto with fiat money in your wallet.
 
 # More info here
 
-https://docs.aircash.finance/
+https://docs.aircash.finance
 
 # License
 
